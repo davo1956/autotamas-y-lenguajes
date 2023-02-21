@@ -1,0 +1,9 @@
+S -> AB
+S -> BA
+S -> SS
+S -> AC
+S -> BD
+A -> a
+B -> b
+C -> SB
+D -> SA

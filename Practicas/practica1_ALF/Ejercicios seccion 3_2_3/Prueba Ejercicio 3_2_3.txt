@@ -1,0 +1,14 @@
+xy
+xxy
+yxy
+xyx
+xyy
+xxyx
+yxyy
+x
+y
+xxx
+yyy
+yx
+yyyyyx
+xxxxxx
